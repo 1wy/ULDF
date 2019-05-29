@@ -18,4 +18,4 @@ How to make it work:
       If unzipping with WinZip, make sure the file names have not been
       changed by Winzip. 
 4. Run mnistdeepauto.m in matlab.
-For any question, please contact: Yang Wang (wanyang@cslt.riit.tsinghua.edu.cn)
+For any question, please contact: Yang Wang (yang-wang16@mails.tsinghua.edu.cn)
